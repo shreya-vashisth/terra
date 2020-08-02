@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Featured",
+            "blogTitle" : "THUNDER",
+            "slug": "fitness-mantra-to-live-fit-life",
+            "postedOn": "July 21, 2016",
+            "author": "Shreya Vashisth",
+            "blogImage": "1.jpg",
+            "blogText": "I am a being of Heaven and Earth,of thunder and lightning, of rain and wind, of the galaxies, of the suns and the stars and the void through which they travel. The essence of nature, eternal, divine that all men seek to know to hear, known as the great illusion time, and the all-prevailing atmosphere. And now you know my background."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Simple",
+            "blogTitle": "SUNRISE",
+            "slug": "beautiful-and-special-moment",
+            "postedOn": "May 03, 2016",
+            "author": "Shreya Vashisth",
+            "blogImage": "2.jpg",
+            "blogText": "There's a sunrise and a sunset every single day, and they're absolutely free. Don't miss so many of them."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Simple",
+            "blogTitle": "CLOUDS",
+            "slug": "beauti-lies-within-special",
+            "postedOn": "Apr 02, 2017",
+            "author": "Shreya Vashisth",
+            "blogImage": "3.jpg",
+            "blogText": "Dark clouds become heaven's flowers when kissed by light."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Featured",
+            "blogTitle": "MOON",
+            "slug": "sliding-my-way-to-life",
+            "postedOn": "Jan 02, 2019",
+            "author": "Shreya Vashisth",
+            "blogImage": "4.jpg",
+            "blogText": "Don't tell me the moon is shining, just show me the glint of light on broken glass."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Fashion",
+            "blogTitle": "SUNSET",
+            "slug": "memories-from-last-summer",
+            "postedOn": "Feb 21, 2018",
+            "author": "Shreya Vashisth",
+            "blogImage": "5.jpg",
+            "blogText": "The beautiful colors from a sunset are caused by the atmosphere. As the sun gets lower and lower in the sky, its light passes through more and more air layers—compared to noontime, when the sun is directly overhead. And those layers are filled with dust and water particles."
+        }
+    ]
+}
